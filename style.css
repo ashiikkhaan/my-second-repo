@@ -11,10 +11,10 @@ h1 {
 p {
     text-align: center;
 }
-img {
+.mainimg {
     display: block;
     margin: auto;
 }
 .myimage{
-    width: 60%;
+    width: 60vw;
 }
